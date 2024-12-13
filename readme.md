@@ -158,7 +158,7 @@ Acesse `http://localhost/info.php` no navegador. Se as informações do PHP apar
 - Serão avaliadas as práticas de logging utilizadas no sistema.
 - Esperamos que o sistema registre eventos importantes, como erros, acessos e alterações críticas.
 - A implementação deve permitir rastrear problemas e monitorar o desempenho da aplicação.
--- Valorizamos o uso de boas práticas com logs formatados (JSON estruturado, níveis de log como INFO, ERROR, DEBUG).
+- Valorizamos o uso de boas práticas com logs formatados (JSON estruturado, níveis de log como INFO, ERROR, DEBUG).
 
 ---
 
